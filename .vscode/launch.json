@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "localhost",
+            "server": "http://swp-mie:7049",
+            "serverInstance": "bc130",
+            "authentication": "Windows",
+            "startupObjectId": 9321,
+            "startupObjectType": "Page",
+            "breakOnError": false,
+            //"schemaUpdateMode": "Recreate"
+            "schemaUpdateMode": "Synchronize"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "17633280-8aee-40ac-a806-193c9fa438d3",
+  "publisher": "SWP",
+  "name": "RentMe-MIE",  
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "runtime": "2.4",
+  "showMyCode": true
+}
